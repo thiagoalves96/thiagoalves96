@@ -1,10 +1,12 @@
 
 
-### Olá! Eu sou o Thiago Alves
-#
+  <h1 align="center">
+    Oi Tudo bem? Eu sou o 
+    <a href="https://www.linkedin.com/in/thiagodev-alves/">Thiago Alves 😃️</a>
+  </h1>
 
 - 🧑🏻‍💻 Apaixonado por tecnologia
-- ⌨️ Estudante Análise e Desenvolvimento de Sistema  **2/5**
+- ⌨️ Estudante de Análise e Desenvolvimento de Sistema  **2/5**
 
 <div align="center">
   <a href="https://github.com/thiagoalves96">
