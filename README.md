@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Thiago Alves
+#
 
-
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Sistemas da Informação 2/5
+- 🧑🏻‍💻 Apaixonado por tecnologia
+- ⌨️ Estudante Análise e Desenvolvimento de Sistema  **2/5**
 
 <div align="center">
   <a href="https://github.com/thiagoalves96">
