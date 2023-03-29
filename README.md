@@ -10,14 +10,16 @@
 </div>
 
 <div align="center">
+<hr>
   <a href="https://github.com/thiagoalves96">
     <img height="150em"src="https://github-readme-stats.vercel.app/api?username=thiagoalves96&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoalves96&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoalves96&theme=dracula&hide_border=false&&layout=compact"/> 
+    </a>
+  <hr/>
 </div>
 
 
-<div style="display:inline_block"><br>
+<div style="display:inline_block"> 
  <a href="https://github.com/thiagoalves96/Java" target="_blank"> <img align="center" alt="Thiago-Jv" height="50" width="60" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <a/>
           
