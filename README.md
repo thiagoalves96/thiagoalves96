@@ -7,6 +7,7 @@
 
 - 🧑🏻‍💻 Apaixonado por tecnologia
 - ⌨️ Estudante de Análise e Desenvolvimento de Sistema  **2/4**
+- 🚀 Subindo <a href="https://github.com/thiagoalves96/Projetos">_Projetos_<a/> em java
 </div>
 
 <div align="center">
