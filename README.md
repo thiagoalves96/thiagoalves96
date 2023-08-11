@@ -6,7 +6,7 @@
   </h1>
 
 - 🧑🏻‍💻 Apaixonado por tecnologia
-- ⌨️ Estudante de Análise e Desenvolvimento de Sistema  **2/4**
+- ⌨️ Estudante de Análise e Desenvolvimento de Sistema  **3/4**
 - 🚀 Subindo <a href="https://github.com/thiagoalves96/Projetos">_Projetos_<a/> em java
 </div>
 
