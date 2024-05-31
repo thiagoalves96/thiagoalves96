@@ -19,11 +19,18 @@
 </div>
 
 
-<div style="display:inline_block"> 
- <a href="https://github.com/thiagoalves96/Java" target="_blank"> <img align="center" alt="Thiago-Jv" height="50" width="60" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <a/>
-          
-  </div>
+<h2 align="center">Minha Stack</h2>
+<div style="display:inline-block" align="center"> 
+  <a href="https://github.com/thiagoalves96/Java" target="_blank"><img alt="Thiago-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
+  <a href="https://github.com/thiagoalves96/CSS" target="_blank"><img alt="Thiago-CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="margin-right: 10px;" /></a>
+  <a href="https://github.com/thiagoalves96/MySQL" target="_blank"><img alt="Thiago-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
+  <a href="https://github.com/thiagoalves96/HTML" target="_blank"><img alt="Thiago-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="margin-right: 10px;" /></a>
+  <a href="https://github.com/thiagoalves96/AWS" target="_blank"><img alt="Thiago-AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="margin-right: 10px;" /></a>
+</div>
+
+
+
+
  
  ------------------
 
