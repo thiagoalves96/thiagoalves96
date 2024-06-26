@@ -4,11 +4,16 @@
     <a href="https://www.linkedin.com/in/thiagodev-alves/">Thiago Alves 😃️</a>
   </h1>
 
-- 🧑🏻‍💻 Apaixonado por tecnologia
-- ⌨️ Estudante de Análise e Desenvolvimento de Sistema  **3/4**
-- 🚀 Subindo <a href="https://github.com/thiagoalves96/Projetos">_Projetos_<a/> em java
+- :heart: Apaixonado por tecnologia
+- 🧑🏻‍💻 Analista e Desenvolvedor de Sistema
+- :man_student: Estudante de Java Web Full-Stack e Spring Boot REST API
+- :man_student: Estudante de Pós-graduação Lato Sensu (Especialização) em Tecnologia Java
 </div>
-
+ <h1></h1>
+<div align="center">
+  <h3>𝕍𝕚𝕤𝕚𝕥𝕖𝕞 𝕠 𝕄𝕖𝕦 ℙ𝕠𝕣𝕥𝕚𝕗𝕠́𝕝𝕚𝕠‼️</h3>
+<a href="https:www.thiagoalvesdev.com.br"> www.thiagoalvesdev.com.br<a/>
+</div>
 <div align="center">
 <hr>
   <a href="https://github.com/thiagoalves96">
@@ -26,6 +31,7 @@
   <a href="https://github.com/thiagoalves96/MySQL" target="_blank"><img alt="Thiago-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
   <a href="https://github.com/thiagoalves96/HTML" target="_blank"><img alt="Thiago-HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="margin-right: 10px;" /></a>
   <a href="https://github.com/thiagoalves96/AWS" target="_blank"><img alt="Thiago-AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="margin-right: 10px;" /></a>
+   <a href="https://github.com/thiagoalves96/AWS" target="_blank"><img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" /></a>
 </div>
 
 
