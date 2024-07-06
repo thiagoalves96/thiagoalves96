@@ -12,7 +12,7 @@
  <h1></h1>
 <div align="center">
   <h3>𝕍𝕚𝕤𝕚𝕥𝕖𝕞 𝕠 𝕄𝕖𝕦 ℙ𝕠𝕣𝕥𝕚𝕗𝕠́𝕝𝕚𝕠‼️</h3>
-<a href="https:www.thiagoalvesdev.com.br"> www.thiagoalvesdev.com.br<a/>
+<a href="www.thiagoalvesdev.com.br"> www.thiagoalvesdev.com.br<a/>
 </div>
 <div align="center">
 <hr>
