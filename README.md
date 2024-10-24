@@ -7,7 +7,7 @@
 - :heart: Apaixonado por tecnologia
 - 🧑🏻‍💻 Analista e Desenvolvedor de Sistema
 - :man_student: Estudante de Java Web Full-Stack e Spring Boot REST API
-- :man_student: Inscrito na Pós-graduação Lato Sensu (Especialização) em Tecnologia Java
+- :man_student: Estudando na Pós-graduação Lato Sensu (Especialização) em Tecnologia Java
 </div>
  <h1></h1>
 <div align="center">
